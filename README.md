@@ -52,5 +52,4 @@ show timing; this view can. Choosing no country shows a prompt instead of an
 empty chart.
 
 All values are the supplied sample data, labelled as such on the page.
-Requirements are pinned for Streamlit Community Cloud. The adaptation was
-prepared with assistance from Anthropic Claude, as declared in the coursework.
+Requirements are pinned for Streamlit Community Cloud.
